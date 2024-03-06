@@ -1,46 +1,28 @@
-# Getting Started with Create React App
+# Objetivo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O desenvolvimento de componentes de UI em React pode ser uma das primeiras etapas para a codificação de funcionalidades de um sistema WEB, a construção de um componente base  de qualidade é necessário manter a independência e a consistência para ser utilizadas em diferentes etapas do sistema.
 
-## Available Scripts
+Então, pelo motivo de aprimorar meu conhecimento em desenvolvimento de bibliotecas de UI em React, construo esse repositório para compartilhar meu aprendizado conforme eu evoluo na minha jornada!
 
-In the project directory, you can run:
+Enquanto eu me entendo como desenvolvedor de software, quero evoluir minha codificação para ter códigos cada vez mais eficientes, estruturados e escaláveis.
 
-### `npm start`
+# Processo de Aprendizado
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+O aprendizado muitas vezes pode ser complicado para saber que caminho tomar ou que atitude devemos ter para se desenvolver. Atualmente eu estou sem um mentor de software no local que desenvolvo que normalmente é um dos métodos mais eficiente de aprendizado para mim, então venho procurar uma outra forma de aprender.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Adoro utilizar de bibliotecas de componentes de UI como o bootstrap e material UI que são extremamente famosos por servir de bases de muitos sistemas webs por aí, então adoro visitar o repositório e estudar como é feito a sua estruturação e codificação que podem trazer aprimoramento para meu desenvolvimento. Neste momento, utilizo esse método para evoluir um pouquinho mais na minha jornada de dev WEB.
 
-### `npm test`
+# Recursos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## React e Typescript
 
-### `npm run build`
+Não me adequo muito com a codificação utilizando de Javascript sem a extensão de typescript, enxergo a tipagem como uma ferramenta extremamente forte que facilita o rastreio de problemas, desenvolvimento em grupo e até como enxergo os módulos do sistema.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Storybook
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Pacote que utilizo para instanciar o ambiente de componentes de UI, para facilitar a visualização dos estados, atributos e métodos dos componentes.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Eslint
 
-### `npm run eject`
+Codificar é um processo de desenvolvimento em grupo, manter a consistência de construção de código é sempre interessante para entendimentos de todos os desenvolvedores.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
