@@ -26,3 +26,7 @@ Pacote que utilizo para instanciar o ambiente de componentes de UI, para facilit
 
 Codificar é um processo de desenvolvimento em grupo, manter a consistência de construção de código é sempre interessante para entendimentos de todos os desenvolvedores.
 
+## Husky e Commitlint
+
+Manter a consistência dos headers do commit é sempre interessante para rastreio de codificação, então utilizo o commitlint para definir uma formalização dos commits e o Husky para desenvolvimento de script hooks.
+
