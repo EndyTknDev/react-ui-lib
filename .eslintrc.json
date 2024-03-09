@@ -81,6 +81,19 @@
 			}
 		],
 		"react/button-has-type": "off",
-		"import/no-extraneous-dependencies": "off"
+		"import/no-extraneous-dependencies": "off",
+		"@typescript-eslint/member-delimiter-style": [
+            "warn",
+            {
+                "multiline": {
+                    "delimiter": "semi",
+                    "requireLast": true
+                },
+                "singleline": {
+                    "delimiter": "semi",
+                    "requireLast": false
+                }
+            }
+		]
 	}
 }
