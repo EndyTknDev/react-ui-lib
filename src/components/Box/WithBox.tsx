@@ -10,7 +10,7 @@ export type WithBoxProps = {
 
 export const withBox = <P extends object>(WrapperComponent: React.ComponentType<P>) => {
   const WithBox: React.FC<P & WithBoxProps> = ({ boxVariant, boxProps, ...props }) => ((
-    <Box {...boxProps} variant={boxVariant}>
+    <Box {...boxProps} $variant={boxVariant}>
       <WrapperComponent {...props as P} />
     </Box>
   ));

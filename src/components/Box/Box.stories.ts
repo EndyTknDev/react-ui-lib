@@ -13,18 +13,18 @@ type Story = StoryObj<typeof meta>;
 // More on writing stories with args: https://storybook.js.org/docs/writing-stories/args
 export const Filled: Story = {
   args: {
-    variant: "filled",
+    $variant: "filled",
   },
 };
 
 export const Inverted: Story = {
   args: {
-    variant: "inverted",
+    $variant: "inverted",
   },
 };
 
 export const Underlined: Story = {
   args: {
-    variant: "underlined",
+    $variant: "underlined",
   },
 };
